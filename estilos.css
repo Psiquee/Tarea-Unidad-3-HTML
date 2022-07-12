@@ -1,0 +1,130 @@
+
+.cabecera{
+    width: 960x;
+    height:  70px;
+    background: #FCD5E0;
+    text-align: center;
+    margin: ;
+    
+}
+img{
+    width: 200px;
+    height: 300px;
+    margin:auto;
+
+}
+
+h1{
+    font-family: font-family: 'Bebas Neue', cursive;
+    text-align: center;
+    font-weight:bold;
+}
+h2{
+    font-weight: bold;
+    
+}
+.menu{
+    background:hsl(283, 37%, 91%);
+    padding: 5px 15px;
+    
+
+}
+.menu li{
+    list-style: none;
+    border: 1px solid #f3dbe2;
+    padding: 5px;
+    font: bold 14px verdana;
+    display: inline-block;
+
+}
+
+
+header,section,footer,aside,nav,article, hgroup{
+    display: block;
+}
+
+.fotoprueba {
+    display: flex;
+    justify-content: center;
+}
+.Agrupar{
+    width: 960px;
+    margin:auto;
+    border: 1px black; 
+    background-color:  antiquewhite;
+    margin: 15px auto;
+    
+}
+    
+body{
+    text-align: center
+}
+article{
+    background-color: antiquewhite;
+    border:1px solid #999;
+    padding: 20px;
+    margin-bottom: 15px;
+}
+
+.seccion{
+    margin: 20px;
+    background: rgb(246, 226, 234) ;
+    width: 600px;
+    border: 1px solid black;
+    float: right;
+    
+}
+.columna{
+    margin: 20px;
+    width: 200px;
+    border: 1px solid black;
+    display: block;
+
+
+}
+.columna blockquote{
+    border: 1px solid black;
+    margin-bottom: 1;
+}
+
+
+
+aside li{
+    list-style: none;
+    text-align: left;
+}
+    
+
+#CajaFormulario{
+    border: 1px solid #999;
+   margin-left: 30px;
+    width: 200px;
+    height: 350px;
+    background-color: #FFC2D4;
+    float: left;
+}
+#CajaSerie{
+    
+    text-align: center;
+    margin-left: 30px;
+    width: 200px;
+    height: 100px;
+    background-color: #FFC2D4;
+    list-style: ;
+}
+
+#CajaPeliculas{
+    
+    text-align: center;
+    margin-left: 30px;
+    width: 200px;
+    height: 150px;
+    background-color: #FFC2D4;
+
+}
+.pie{ 
+    clear: both;
+    padding: 20px;
+    background:hsl(283, 37%, 91%) ;
+    
+}
